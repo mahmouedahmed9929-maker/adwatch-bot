@@ -1,8 +1,0 @@
-TelegramAdApp_fixed/
-├── bot.py
-├── requirements.txt
-├── Procfile
-├── README.md
-└── static/
-    ├── app.js
-    └── index.html
